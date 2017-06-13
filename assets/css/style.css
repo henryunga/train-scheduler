@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-weight: bolder;
+    margin-top: 25px;
+
+}
+
+.jumbotron {
+    background-color: royalblue;
+    color: white;
+    border: solid 3px black;
+}
+
+.panel-warning {
+    color:black;
+}
+
+.panel-heading {
+  color: royalblue;
+}
+
+.panel-title {
+  color: black;
+
+}
+
+.panel {
+    background-color: white;
+    border-color: black;
+}
+
+button#submitTrain {
+    background-color: royalblue;
+    border-color: black;
+
+}
